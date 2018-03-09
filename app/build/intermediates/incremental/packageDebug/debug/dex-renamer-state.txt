@@ -1,0 +1,4 @@
+#Thu Mar 08 14:20:05 PST 2018
+base.0=C\:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

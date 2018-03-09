@@ -1,0 +1,149 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "150,97,57",
+                        "endColumns": "49,51,38",
+                        "endOffsets": "195,144,91"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,157",
+                        "endColumns": "49,51,38",
+                        "endOffsets": "100,152,191"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "192,525,690",
+                        "endLines": "12,17,28",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "484,682,1228"
+                    },
+                    "to": {
+                        "startLines": "17,24,27",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "855,1146,1306",
+                        "endLines": "23,26,36",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1141,1301,1835"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,9,10,11,12,5,7,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "102,59,426,468,523,562,156,274,210,373",
+                        "endColumns": "52,41,40,53,37,56,52,97,62,51",
+                        "endOffsets": "150,96,462,517,556,614,204,367,268,420"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "310,363,405,446,500,538,595,648,746,803",
+                        "endColumns": "52,41,40,53,37,56,52,97,56,51",
+                        "endOffsets": "358,400,441,495,533,590,643,741,798,850"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "196,254",
+                        "endColumns": "57,55",
+                        "endOffsets": "249,305"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

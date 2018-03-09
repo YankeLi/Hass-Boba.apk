@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boba</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap to speak</string>
+    <string name="hello0">Hello</string>
+    <string name="hello1">How Can I help you</string>
+    <string name="hello2">Hi</string>
+    <string name="hello3">What can I do for you</string>
+
+</resources>

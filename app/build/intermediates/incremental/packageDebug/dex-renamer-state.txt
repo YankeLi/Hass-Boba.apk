@@ -1,0 +1,4 @@
+#Thu Mar 08 14:19:10 PST 2018
+base.0=C\:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\linyuan\\Desktop\\io2015-codelabs-master\\voice-interaction-api\\SpeechToText\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
